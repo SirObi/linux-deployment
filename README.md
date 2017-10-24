@@ -14,8 +14,8 @@ Software and Python modules installed:
 • PostgreSQL 
 • Flask  
 • requests  
-• oauth2client 
-• SQLAlchemy 
+• oauth2client  
+• SQLAlchemy  
 • virtualenv  
 
 Many thanks to DigitalOcean for this invaluable guide:  
